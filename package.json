@@ -1,0 +1,24 @@
+{
+  "name": "mwa.lab5",
+  "version": "1.0.0",
+  "description": "CS572MWA_Day5",
+  "main": "Exercise_sol1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymanElakhwas/CS572MWA_Day5.git"
+  },
+  "author": "Ayman Elakhwas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymanElakhwas/CS572MWA_Day5/issues"
+  },
+  "homepage": "https://github.com/AymanElakhwas/CS572MWA_Day5#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-fetch": "^2.1.2",
+    "rxjs": "^6.2.0"
+  }
+}
